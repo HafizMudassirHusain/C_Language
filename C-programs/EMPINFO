@@ -1,0 +1,175 @@
+
+ id : 1001
+ name : Sohail
+ poaition : Naib-Qasid
+ grade : 1
+ salary : 15000
+ company : M-Company
+
+ id : 1002
+ name : Haris
+ poaition : Senior-Qasid
+ grade : 2
+ salary : 17000
+ company : M-Company
+
+ id : 1003
+ name : Babar
+ poaition : Asistent-Cook
+ grade : 3
+ salary : 18000
+ company : M-Company
+
+ id : 1004
+ name : Jamaal
+ poaition : Cook
+ grade : 4
+ salary : 21000
+ company : M-Company
+
+ id : 1005
+ name : Kashif
+ poaition : Driver
+ grade : 5
+ salary : 23000
+ company : M-Company
+
+ id : 1006
+ name : Shayree
+ poaition : Model-Maker
+ grade : 6
+ salary : 23000
+ company : M-Company
+
+ id : 1007
+ name : Sunny
+ poaition : Lower-Divi-clerk
+ grade : 7
+ salary : 25000
+ company : M-Company
+
+ id : 1008
+ name : Sarfaraz
+ poaition : S-Lower-Divi-Clerk
+ grade : 8
+ salary : 26000
+ company : M-Company
+
+ id : 1009
+ name : Hafiz
+ poaition : Upper-Divi-clerk
+ grade : 9
+ salary : 28000
+ company : M-Company
+
+ id : 1010
+ name : Mudassir
+ poaition : S-Upper-Divi-clerk
+ grade : 10
+ salary : 30000
+ company : M-Company
+
+ id : 111
+ name : Husain
+ poaition : suppervisor
+ grade : 11
+ salary : 30000
+ company : M-Company
+
+ id : 1012
+ name : Malik
+ poaition : 012
+ grade : 12
+ salary : -32536
+ company : M-Company
+
+ id : 1013
+ name : Talha
+ poaition : stenotypist
+ grade : 13
+ salary : -30536
+ company : M-Company
+
+ id : 1014
+ name : Zubair
+ poaition : Assistent
+ grade : 14
+ salary : -27536
+ company : M-Company
+
+ id : 1015
+ name : Ammar
+ poaition : Computer-Operator
+ grade : 15
+ salary : -25536
+ company : M-Company
+
+ id : 1016
+ name : Rehman
+ poaition : Acountant
+ grade : 16
+ salary : -23536
+ company : M-Company
+
+ id : 1017
+ name : Murtaza
+ poaition : Asistant-Director
+ grade : 17
+ salary : -15536
+ company : M-Company
+
+ id : 1018
+ name : Basit
+ poaition : Asistant-Tresurar
+ grade : 18
+ salary : -5536
+ company : M-Company
+
+ id : 1019
+ name : Chuhan
+ poaition : Additional-Registrar
+ grade : 19
+ salary : 4464
+ company : M-Company
+
+ id : 1020
+ name : Taha
+ poaition : Assistant-Director
+ grade : 20
+ salary : 14464
+ company : M-Company
+
+ id : 1021
+ name : Hafiz-Mudassir-H
+ poaition : Director-administ
+ grade : 22
+ salary : -31072
+ company : M-Company
+
+ id : 1022
+ name : Muhammad-Yasir
+ poaition : Head-of-Company
+ grade : 22
+ salary : 3392
+ company : M-Company
+
+ id : 10000
+ name : Muhammad
+ poaition : Moqeem
+ grade : 24
+ salary : -27680
+ company : M-Company
+
+ id : 101
+ name : Abdul-quiyom
+ poaition : CEO
+ grade : 100
+ salary : -24288
+ company : M-company
+
+ id : 1234
+ name : Mustaqeem
+ poaition : Co-Director
+ grade : 20
+ salary : 24464
+ company : M-Company
